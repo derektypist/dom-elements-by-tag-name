@@ -34,7 +34,7 @@ Ensure all user stories have been met.  On the command line, type:
 
     python3 -m http.server
 
-Select `Open Preview` to preview.  Select each of the buttons.
+Select `Open Preview` to preview.  Select each of the buttons and check that the information meets the user story.  For example, if I select the Reset Button, I expect the information to be cleared.
 
 ## Deployment
 
