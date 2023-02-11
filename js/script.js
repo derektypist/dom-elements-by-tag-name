@@ -17,3 +17,9 @@ function getRandomCelebrity() {
     // Display the Information in the Browser
     document.getElementById("displayinfo").innerHTML = txt;
 }
+
+// Function to Clear Information
+function clearInfo() {
+    let txt = "";
+    document.getElementById("displayinfo").innerHTML = txt;
+}
