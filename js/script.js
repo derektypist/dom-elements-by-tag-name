@@ -5,7 +5,7 @@ function getRandomCelebrity() {
     // Get the List Items
     const listItems = document.getElementsByTagName("li");
     // Create a New Array
-    const listItemsArr = Array(listItems.length).fill("").map((_,i) => listItems[i].innerHTML);
+    const listItemsArr = Array(listItems.length).fill("").map((_, i) => listItems[i].innerHTML);
     // Get the Random Index
     const randomIndex = Math.floor(Math.random() * listItems.length);
     // Get the Random Celebrity
