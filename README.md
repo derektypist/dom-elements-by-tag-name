@@ -18,4 +18,13 @@ As a user, if I select the Reset Button, I can clear the information or start ag
 
 **Information Architecture**
 
-The list items are Anna Richardson, Kate Garraway, Ruth Langsford, Susanna Reid and Victoria Beckham.
+The list items are Anna Richardson, Joanna Gosling, Kate Garraway, Ruth Langsford, Susanna Reid and Victoria Beckham.  All are strings.
+
+## Features
+
+Allows the user to get the random celebrity from the list items.  Other information include the number of list items.
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Google Fonts and Bootstrap 5.3.0-alpha1.
+
